@@ -1,0 +1,60 @@
+REQUISITOS OBTIDOS POR PESQUISA (BENCHMARKING) SOBRE SISTEMAS DE ESTACIONAMENTO
+
+REQUISITOS NÃO FUNCIONAIS:
+
+*Rodar nas plataformas móveis (celulares e tablets) e PC;
+
+*Garantir segurança da informação
+
+*Desempenho elevado (alta velocidade de resposta das transações do sistemas)
+
+ 
+
+REQUISITOS FUNCIONAIS:
+
+*Registro de vagas
+
+*Registro de ocupação de vagas com sensores sobre as vagas
+
+*Emissão de ticket de estacionamento
+
+*Controle de cadastro de mensalistas
+
+*Controle de cadastro de convênios
+
+*Integração com meio de pagamento on line (Redecerd, Visanet, Cielo)
+
+*Emissão de NFS
+
+*Integração com sistema do governo municipal e estadual para recolhimento tributário
+
+*Comunicação dos tickets e recibos do estacionamento por SMS para números celulares dos clientes
+
+*Possibilidade de verificar comprovantes via WEB, pelo usuário
+
+*Emissão de relatórios gerenciais: total de carros estacionados por hora e dia semana, faturamento mensal, tempo médio de permanência
+
+*Leitura informatizada de tickets na hora do pagamento (código de barra)
+
+*Tabela de preços por dia, horário e perfil do usuário (conveniado, avulso, mensalista)
+
+*Controle de parcerias do estacionamento com estabelecimentos comerciais do entorno e eventos
+
+*Registrar placa, modelo e cor dos veículos estacionados, com leitura automática de placas
+
+*Gestão integrada de vários estacionamentos físicos
+
+*Registro de avarias na entrada e saída de veículos com fotos e checklist                
+
+*Exportação de dados das tabelas do sistema para uso em Excel
+
+*Controle de pagamento antecipado
+
+*Cancelas de entrada e saída automatizadas
+
+*Configura de perfis de acesso ao sistema para determinadas operações
+
+
+
+
+
